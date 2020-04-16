@@ -4,6 +4,9 @@ selenium
 java
 python
 
+c++
+qtp
+
 
 
 Thank you
