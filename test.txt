@@ -6,7 +6,8 @@ python
 
 c++
 qtp
-
+c#
+bitbucket
 
 
 Thank you
